@@ -5,6 +5,7 @@
 fn main() {
     print("Hello, world!");
     print("Testing!");
+    print("JJ is interesting!");
 }
 
 // a function that prints a message
